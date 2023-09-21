@@ -1,2 +1,2 @@
 # Table of content #
-## Project Title
+## **Project Title**
