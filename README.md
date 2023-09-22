@@ -1,9 +1,8 @@
 # Table of Contents #
 + ### **Project Title**
-  Hello World Sample
+  Lab Activity - Tax Estimator
 + ### _Description_
-  Practicing GitHub skills by creating a sample repository
-+ ### ***How to run Program***
-+ ### Files Used 
-+ ### _Additional Documentation_
-+ ### ***Versioning*** 
+  This project was a Lab Activity that we did in the class Computational Thinking. The goal was to make a program that could caluclate your total state and federal tax.
++ ### Files Used
+  
++ ### _What I Learned_
